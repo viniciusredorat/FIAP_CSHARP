@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Imc", "Imc\Imc.csproj", "{B6C1F33A-8627-4F71-B217-995D052FDBE6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media", "Media\Media.csproj", "{587F7297-8463-4187-8056-7DD46E541B14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SituacaoAluno", "SituacaoAluno\SituacaoAluno.csproj", "{3D5D4DF8-2DE9-4676-BDE3-C3D1F421A55C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Situacao_FrequenciaAluno", "Situacao_FrequenciaAluno\Situacao_FrequenciaAluno.csproj", "{5DFBF92A-A665-46B2-A593-3E46742C6F75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jogo", "Jogo\Jogo.csproj", "{015D114D-2897-4040-8375-56FB1AD46EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randomico_Exemplo", "Randomico_Exemplo\Randomico_Exemplo.csproj", "{DE3DDF66-889A-4DC2-9C58-BEC8763A68E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo_JOKENPO", "Jogo_JOKENPO\Jogo_JOKENPO.csproj", "{1DF9888F-7977-4D08-BD35-EF2FFDD8520E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C1F33A-8627-4F71-B217-995D052FDBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C1F33A-8627-4F71-B217-995D052FDBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C1F33A-8627-4F71-B217-995D052FDBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C1F33A-8627-4F71-B217-995D052FDBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587F7297-8463-4187-8056-7DD46E541B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587F7297-8463-4187-8056-7DD46E541B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587F7297-8463-4187-8056-7DD46E541B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587F7297-8463-4187-8056-7DD46E541B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D5D4DF8-2DE9-4676-BDE3-C3D1F421A55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5D4DF8-2DE9-4676-BDE3-C3D1F421A55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5D4DF8-2DE9-4676-BDE3-C3D1F421A55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5D4DF8-2DE9-4676-BDE3-C3D1F421A55C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DFBF92A-A665-46B2-A593-3E46742C6F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFBF92A-A665-46B2-A593-3E46742C6F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFBF92A-A665-46B2-A593-3E46742C6F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFBF92A-A665-46B2-A593-3E46742C6F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{015D114D-2897-4040-8375-56FB1AD46EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015D114D-2897-4040-8375-56FB1AD46EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015D114D-2897-4040-8375-56FB1AD46EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015D114D-2897-4040-8375-56FB1AD46EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3DDF66-889A-4DC2-9C58-BEC8763A68E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3DDF66-889A-4DC2-9C58-BEC8763A68E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3DDF66-889A-4DC2-9C58-BEC8763A68E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3DDF66-889A-4DC2-9C58-BEC8763A68E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF9888F-7977-4D08-BD35-EF2FFDD8520E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF9888F-7977-4D08-BD35-EF2FFDD8520E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF9888F-7977-4D08-BD35-EF2FFDD8520E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF9888F-7977-4D08-BD35-EF2FFDD8520E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E5F3129-7919-497D-8BD3-58B1FEC1AFB9}
+	EndGlobalSection
+EndGlobal

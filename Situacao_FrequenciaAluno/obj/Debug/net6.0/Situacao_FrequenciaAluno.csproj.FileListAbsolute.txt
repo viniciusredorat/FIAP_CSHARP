@@ -1,0 +1,15 @@
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\obj\Debug\net6.0\Situacao_FrequenciaAluno.csproj.AssemblyReference.cache
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\obj\Debug\net6.0\Situacao_FrequenciaAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\obj\Debug\net6.0\Situacao_FrequenciaAluno.AssemblyInfoInputs.cache
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\obj\Debug\net6.0\Situacao_FrequenciaAluno.AssemblyInfo.cs
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\obj\Debug\net6.0\Situacao_FrequenciaAluno.csproj.CoreCompileInputs.cache
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\bin\Debug\net6.0\Situacao_FrequenciaAluno.exe
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\bin\Debug\net6.0\Situacao_FrequenciaAluno.deps.json
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\bin\Debug\net6.0\Situacao_FrequenciaAluno.runtimeconfig.json
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\bin\Debug\net6.0\Situacao_FrequenciaAluno.dll
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\bin\Debug\net6.0\Situacao_FrequenciaAluno.pdb
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\obj\Debug\net6.0\Situacao_FrequenciaAluno.dll
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\obj\Debug\net6.0\refint\Situacao_FrequenciaAluno.dll
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\obj\Debug\net6.0\Situacao_FrequenciaAluno.pdb
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\obj\Debug\net6.0\Situacao_FrequenciaAluno.genruntimeconfig.cache
+D:\CURSO\repos\Academia\Situacao_FrequenciaAluno\obj\Debug\net6.0\ref\Situacao_FrequenciaAluno.dll

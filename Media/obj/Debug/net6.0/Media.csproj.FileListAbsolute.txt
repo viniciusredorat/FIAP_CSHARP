@@ -1,0 +1,15 @@
+D:\CURSO\repos\Academia\Media\obj\Debug\net6.0\Media.csproj.AssemblyReference.cache
+D:\CURSO\repos\Academia\Media\obj\Debug\net6.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO\repos\Academia\Media\obj\Debug\net6.0\Media.AssemblyInfoInputs.cache
+D:\CURSO\repos\Academia\Media\obj\Debug\net6.0\Media.AssemblyInfo.cs
+D:\CURSO\repos\Academia\Media\obj\Debug\net6.0\Media.csproj.CoreCompileInputs.cache
+D:\CURSO\repos\Academia\Media\bin\Debug\net6.0\Media.exe
+D:\CURSO\repos\Academia\Media\bin\Debug\net6.0\Media.deps.json
+D:\CURSO\repos\Academia\Media\bin\Debug\net6.0\Media.runtimeconfig.json
+D:\CURSO\repos\Academia\Media\bin\Debug\net6.0\Media.dll
+D:\CURSO\repos\Academia\Media\bin\Debug\net6.0\Media.pdb
+D:\CURSO\repos\Academia\Media\obj\Debug\net6.0\Media.dll
+D:\CURSO\repos\Academia\Media\obj\Debug\net6.0\refint\Media.dll
+D:\CURSO\repos\Academia\Media\obj\Debug\net6.0\Media.pdb
+D:\CURSO\repos\Academia\Media\obj\Debug\net6.0\Media.genruntimeconfig.cache
+D:\CURSO\repos\Academia\Media\obj\Debug\net6.0\ref\Media.dll

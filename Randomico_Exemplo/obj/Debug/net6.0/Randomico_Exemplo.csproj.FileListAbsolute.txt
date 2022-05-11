@@ -1,0 +1,15 @@
+D:\CURSO\repos\Academia\Randomico_Exemplo\bin\Debug\net6.0\Randomico_Exemplo.exe
+D:\CURSO\repos\Academia\Randomico_Exemplo\bin\Debug\net6.0\Randomico_Exemplo.deps.json
+D:\CURSO\repos\Academia\Randomico_Exemplo\bin\Debug\net6.0\Randomico_Exemplo.runtimeconfig.json
+D:\CURSO\repos\Academia\Randomico_Exemplo\bin\Debug\net6.0\Randomico_Exemplo.dll
+D:\CURSO\repos\Academia\Randomico_Exemplo\bin\Debug\net6.0\Randomico_Exemplo.pdb
+D:\CURSO\repos\Academia\Randomico_Exemplo\obj\Debug\net6.0\Randomico_Exemplo.csproj.AssemblyReference.cache
+D:\CURSO\repos\Academia\Randomico_Exemplo\obj\Debug\net6.0\Randomico_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO\repos\Academia\Randomico_Exemplo\obj\Debug\net6.0\Randomico_Exemplo.AssemblyInfoInputs.cache
+D:\CURSO\repos\Academia\Randomico_Exemplo\obj\Debug\net6.0\Randomico_Exemplo.AssemblyInfo.cs
+D:\CURSO\repos\Academia\Randomico_Exemplo\obj\Debug\net6.0\Randomico_Exemplo.csproj.CoreCompileInputs.cache
+D:\CURSO\repos\Academia\Randomico_Exemplo\obj\Debug\net6.0\Randomico_Exemplo.dll
+D:\CURSO\repos\Academia\Randomico_Exemplo\obj\Debug\net6.0\refint\Randomico_Exemplo.dll
+D:\CURSO\repos\Academia\Randomico_Exemplo\obj\Debug\net6.0\Randomico_Exemplo.pdb
+D:\CURSO\repos\Academia\Randomico_Exemplo\obj\Debug\net6.0\Randomico_Exemplo.genruntimeconfig.cache
+D:\CURSO\repos\Academia\Randomico_Exemplo\obj\Debug\net6.0\ref\Randomico_Exemplo.dll

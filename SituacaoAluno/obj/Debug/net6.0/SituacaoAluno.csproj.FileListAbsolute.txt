@@ -1,0 +1,15 @@
+D:\CURSO\repos\Academia\SituacaoAluno\bin\Debug\net6.0\SituacaoAluno.exe
+D:\CURSO\repos\Academia\SituacaoAluno\bin\Debug\net6.0\SituacaoAluno.deps.json
+D:\CURSO\repos\Academia\SituacaoAluno\bin\Debug\net6.0\SituacaoAluno.runtimeconfig.json
+D:\CURSO\repos\Academia\SituacaoAluno\bin\Debug\net6.0\SituacaoAluno.dll
+D:\CURSO\repos\Academia\SituacaoAluno\bin\Debug\net6.0\SituacaoAluno.pdb
+D:\CURSO\repos\Academia\SituacaoAluno\obj\Debug\net6.0\SituacaoAluno.csproj.AssemblyReference.cache
+D:\CURSO\repos\Academia\SituacaoAluno\obj\Debug\net6.0\SituacaoAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO\repos\Academia\SituacaoAluno\obj\Debug\net6.0\SituacaoAluno.AssemblyInfoInputs.cache
+D:\CURSO\repos\Academia\SituacaoAluno\obj\Debug\net6.0\SituacaoAluno.AssemblyInfo.cs
+D:\CURSO\repos\Academia\SituacaoAluno\obj\Debug\net6.0\SituacaoAluno.csproj.CoreCompileInputs.cache
+D:\CURSO\repos\Academia\SituacaoAluno\obj\Debug\net6.0\SituacaoAluno.dll
+D:\CURSO\repos\Academia\SituacaoAluno\obj\Debug\net6.0\refint\SituacaoAluno.dll
+D:\CURSO\repos\Academia\SituacaoAluno\obj\Debug\net6.0\SituacaoAluno.pdb
+D:\CURSO\repos\Academia\SituacaoAluno\obj\Debug\net6.0\SituacaoAluno.genruntimeconfig.cache
+D:\CURSO\repos\Academia\SituacaoAluno\obj\Debug\net6.0\ref\SituacaoAluno.dll
