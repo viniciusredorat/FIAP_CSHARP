@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Situacao_FrequenciaAluno", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jogo", "Jogo\Jogo.csproj", "{015D114D-2897-4040-8375-56FB1AD46EF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randomico_Exemplo", "Randomico_Exemplo\Randomico_Exemplo.csproj", "{DE3DDF66-889A-4DC2-9C58-BEC8763A68E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Randomico_Exemplo", "Randomico_Exemplo\Randomico_Exemplo.csproj", "{DE3DDF66-889A-4DC2-9C58-BEC8763A68E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo_JOKENPO", "Jogo_JOKENPO\Jogo_JOKENPO.csproj", "{1DF9888F-7977-4D08-BD35-EF2FFDD8520E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteSwitCase", "TesteSwitCase\TesteSwitCase.csproj", "{FFBF7224-3907-47BE-9366-A91729451FC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{1DF9888F-7977-4D08-BD35-EF2FFDD8520E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DF9888F-7977-4D08-BD35-EF2FFDD8520E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DF9888F-7977-4D08-BD35-EF2FFDD8520E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBF7224-3907-47BE-9366-A91729451FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBF7224-3907-47BE-9366-A91729451FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBF7224-3907-47BE-9366-A91729451FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBF7224-3907-47BE-9366-A91729451FC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,8 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Vinicius\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\vinicius\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -17,15 +16,11 @@
       "projectUniqueName": "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_M1\\SituacaoAluno\\SituacaoAluno.csproj",
       "projectName": "SituacaoAluno",
       "projectPath": "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_M1\\SituacaoAluno\\SituacaoAluno.csproj",
-      "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\vinicius\\.nuget\\packages\\",
       "outputPath": "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_M1\\SituacaoAluno\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

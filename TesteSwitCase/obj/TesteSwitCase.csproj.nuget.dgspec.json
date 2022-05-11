@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_M1\\Jogo\\Jogo.csproj": {}
+    "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_M1\\TesteSwitCase\\TesteSwitCase.csproj": {}
   },
   "projects": {
-    "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_M1\\Jogo\\Jogo.csproj": {
+    "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_M1\\TesteSwitCase\\TesteSwitCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_M1\\Jogo\\Jogo.csproj",
-        "projectName": "Jogo",
-        "projectPath": "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_M1\\Jogo\\Jogo.csproj",
+        "projectUniqueName": "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_M1\\TesteSwitCase\\TesteSwitCase.csproj",
+        "projectName": "TesteSwitCase",
+        "projectPath": "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_M1\\TesteSwitCase\\TesteSwitCase.csproj",
         "packagesPath": "C:\\Users\\vinicius\\.nuget\\packages\\",
-        "outputPath": "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_M1\\Jogo\\obj\\",
+        "outputPath": "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_M1\\TesteSwitCase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
