@@ -19,9 +19,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo_JOKENPO", "Jogo_JOKENP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteSwitCase", "TesteSwitCase\TesteSwitCase.csproj", "{FFBF7224-3907-47BE-9366-A91729451FC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopNome", "LoopNome\LoopNome.csproj", "{370C5E7C-D6E3-4A7A-8C23-693190390FCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopNome", "LoopNome\LoopNome.csproj", "{370C5E7C-D6E3-4A7A-8C23-693190390FCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopNome2", "LoopNome2\LoopNome2.csproj", "{AAA3AE6A-88CF-4C00-966B-F3926C8BBB93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopNome2", "LoopNome2\LoopNome2.csproj", "{AAA3AE6A-88CF-4C00-966B-F3926C8BBB93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Par_ou_Impar", "Par_ou_Impar\Par_ou_Impar.csproj", "{E0B3424C-790E-4C66-904C-FBC75632893B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{AAA3AE6A-88CF-4C00-966B-F3926C8BBB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAA3AE6A-88CF-4C00-966B-F3926C8BBB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAA3AE6A-88CF-4C00-966B-F3926C8BBB93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B3424C-790E-4C66-904C-FBC75632893B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B3424C-790E-4C66-904C-FBC75632893B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B3424C-790E-4C66-904C-FBC75632893B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B3424C-790E-4C66-904C-FBC75632893B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

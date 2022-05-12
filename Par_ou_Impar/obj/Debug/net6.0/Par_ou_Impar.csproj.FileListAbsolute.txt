@@ -1,0 +1,15 @@
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\bin\Debug\net6.0\Par_ou_Impar.exe
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\bin\Debug\net6.0\Par_ou_Impar.deps.json
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\bin\Debug\net6.0\Par_ou_Impar.runtimeconfig.json
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\bin\Debug\net6.0\Par_ou_Impar.dll
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\bin\Debug\net6.0\Par_ou_Impar.pdb
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\obj\Debug\net6.0\Par_ou_Impar.csproj.AssemblyReference.cache
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\obj\Debug\net6.0\Par_ou_Impar.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\obj\Debug\net6.0\Par_ou_Impar.AssemblyInfoInputs.cache
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\obj\Debug\net6.0\Par_ou_Impar.AssemblyInfo.cs
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\obj\Debug\net6.0\Par_ou_Impar.csproj.CoreCompileInputs.cache
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\obj\Debug\net6.0\Par_ou_Impar.dll
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\obj\Debug\net6.0\refint\Par_ou_Impar.dll
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\obj\Debug\net6.0\Par_ou_Impar.pdb
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\obj\Debug\net6.0\Par_ou_Impar.genruntimeconfig.cache
+D:\FIAP_CSHARP\Aulas\Git\Task_M1\Par_ou_Impar\obj\Debug\net6.0\ref\Par_ou_Impar.dll
